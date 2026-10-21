@@ -4,9 +4,7 @@
   <strong>An industrial automation prototype for automatic object counting using a Mitsubishi FX5U PLC, photoelectric sensing, and HMI monitoring.</strong>
 </p>
 
-<p align="center">
-  <img src="Photos/mitsubishi-fx5u-plc-hmi-training-kit.jpeg" alt="Mitsubishi FX5U PLC and HMI training kit" width="700">
-</p>
+
 
 ## Project Information
 
