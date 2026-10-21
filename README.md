@@ -17,7 +17,7 @@
 | Institute | St. John College of Engineering & Management |
 | University | University of Mumbai |
 | Academic year | 2026–2027 |
-| Project guide | Ms. Vishakha Rane |
+| Project guide | Ms. Hiral Patel |
 | Project type | Engineering academic prototype |
 
 ### Project Team
